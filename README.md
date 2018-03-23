@@ -1,3 +1,3 @@
 # winery-update-site
 
-Eclipse update-site Winery artifacts.
+Eclipse update-site for Winery artifacts.
